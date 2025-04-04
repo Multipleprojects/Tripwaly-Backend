@@ -1,0 +1,1 @@
+module.exports.Imagelink="/var/www/tripwaly-api/tour-images/";
